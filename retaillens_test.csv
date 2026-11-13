@@ -1,0 +1,4 @@
+﻿OrderID,Date,Product,Category,Quantity,UnitPrice,Region
+RL9001,2026-10-16,Laptop,Electronics,2,45000,Chennai
+RL9002,2026-10-16,Mouse,Accessories,5,500,Bengaluru
+RL9003,2026-10-16,Keyboard,Accessories,3,1200,Hyderabad
